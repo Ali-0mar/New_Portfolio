@@ -19,9 +19,9 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import Angular from "./tech/angular.png";
+import refresh from "./company/refresh.png";
 import done from "./company/done.png";
 import history from "./company/history.png";
-import refresh from "./company/refresh.png";
 
 import galdieriRent from "./GaldieriRent.jpg";
 import blog from "./Blog.png";
