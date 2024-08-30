@@ -135,26 +135,26 @@ const experiences = [
       "Implementing e2e testing using Jest."
     ]
   },
-  {
-    title: "Full-Stack Developer",
-    company_name: "Freelancer",
-    icon: done,
-    iconBg: "#E6DEDD",
-    date: "Dec 2020 - Present",
-    points: ["Developing Responsive websites.", "Implementing features and Designs based on mockups and prototypes.", "Developing flexible and interactive SPA using best practice recommendations."]
-  },
-  {
-    title: "Frontend Developer",
-    company_name: "Alboraq-Telecom",
-    icon: history,
-    iconBg: "#383E56",
-    date: "Feb 2020 - Nov 2020",
-    points: [
-      "Developed the front end for an internal dashboard that was used as management system for the entire company in a microservice environment.",
-      "Updated the legacy code for multiple services.",
-      "Testing and debugging code."
-    ]
-  }
+  // {
+  //   title: "Full-Stack Developer",
+  //   company_name: "Freelancer",
+  //   icon: done,
+  //   iconBg: "#E6DEDD",
+  //   date: "Dec 2020 - Present",
+  //   points: ["Developing Responsive websites.", "Implementing features and Designs based on mockups and prototypes.", "Developing flexible and interactive SPA using best practice recommendations."]
+  // },
+  // {
+  //   title: "Frontend Developer",
+  //   company_name: "Alboraq-Telecom",
+  //   icon: history,
+  //   iconBg: "#383E56",
+  //   date: "Feb 2020 - Nov 2020",
+  //   points: [
+  //     "Developed the front end for an internal dashboard that was used as management system for the entire company in a microservice environment.",
+  //     "Updated the legacy code for multiple services.",
+  //     "Testing and debugging code."
+  //   ]
+  // }
 ];
 
 const testimonials = [
