@@ -122,6 +122,19 @@ const experiences = [
   },
   {
     title: "Full-Stack Developer",
+    company_name: "Scase GmbH",
+    icon: done,
+    iconBg: "#383E56",
+    date: "Oct 2023 - Present",
+    points: [
+      "Developing responsive user interfaces for a leading e-commerce website (Plaze.de), enhancing user experience (SCASE GmbH).",
+      "● Contributing to the design of a Proof-of-Concept (POC) application utilizing Fujitsu PalmSecure for driver management (SCASE GmbH).",
+      "● Focusing on developing and maintaining the JSON-schema-form library that generates dynamic UIs for smart city sensor configurations (Sonah GmbH).",
+      "● Adding new features and resolving bugs for Sonah's smart parking and city management solutions (Sonah GmbH).", 
+    ]
+  },
+  {
+    title: "Full-Stack Developer",
     company_name: "StorexWeb",
     icon: done,
     iconBg: "#383E56",
