@@ -125,7 +125,7 @@ const experiences = [
     company_name: "StorexWeb",
     icon: done,
     iconBg: "#383E56",
-    date: "Jan 2022 - Present",
+    date: "Feb 2023 - Sep 2023",
     points: [
       "Developing full-stack web applications such as Galdieri Rent intranet, which serves as a website used as a communications channel, knowledge management tool, and collaboration platform using Angular, NodeJS, MongoDB, and GraphQL.",
       "Gradual updating the applications legacy code and updated libs as required.",
@@ -133,6 +133,20 @@ const experiences = [
       "Teaming on user-centric design strategy in the translation of business requirements into high-quality, scalable, and reusable coded solutions.",
       "Making recommendations for new technology integration based on suitability and alignment with business goals.",
       "Implementing e2e testing using Jest."
+    ]
+  },
+  {
+    title: "Web Developer Trainee",
+    company_name: "StorexWeb",
+    icon: done,
+    iconBg: "#383E56",
+    date  : "Jul 2022 - Jan 2022",
+    points: [
+      "Transformed app designs into front-end code with HTML, CSS, and JavaScript.",
+      "Documented technical workflows.",
+      "Worked with back-end developers to integrate UI components with APIs and databases.",
+      "Debugging errors, troubleshooting issues, and performing routine performance optimizations.",
+      "Designed customized solutions for proposals to current customers."
     ]
   },
   // {
