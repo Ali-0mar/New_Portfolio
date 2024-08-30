@@ -49,19 +49,25 @@ const About = () => {
         <br />
         I thought my dream was to be an IT technician for a little company, sipping coffee and waiting for employees to need my help, It seemed enough for a young man. But I felt it wasn't quite
         enough. I yearned to learn more, I longed to learn something different.
-        <br />
+        <br />  
         That's when my journey started, the spark I was missing ignited the instant I started my first JavaScript tutorial.
         <br />
-        Now, and after All of this who I'm I, and what do I have under my belt? 3+ years of hands-on experience made me a hard-working full-stack web developer who knows what timeline and quality of
+        Now, and after All of this who I'm I, and what do I have under my belt? 2 years of hands-on experience made me a hard-working full-stack web developer who knows what timeline and quality of
         software matter.
+        <br />
         <br />
         Coding is not just my work, I take it more as a passion, interest, and art of creating something out of nothing. I have solid programming experience in combination with good problem-solving
         skills.
         <br />
-        My primary stack is NodeJS with Express framework for Back-end, and Angular (ReactJs is also an option) for Front-end.
+        I have a strong programming background and I am comfortable developing on both the frontend and backend.
+        My main stack is Node.js with Express for the backend and Angular, React for the frontend, 
+        but I'm always eager to explore and work with other technologies.
         <br />
-        I'm eager to learn new methodologies and keep up with the latest trends in technology, enthusiastically grabbing onto any other programming languages, frameworks, or principles I can integrate
-        into the coding web in my head.
+        <br />
+        My skills include quickly learning new programming languages, adept problem-solving,
+        and proficiency in Model View Controller (MVC) and Object-Oriented Programming (OOP) methodologies.
+        My toolkit comprises JavaScript, Angular, React, Node.js, Express.js, MongoDB, PostgreSQL, Git, Jest, and Mocha for testing.
+        <br />
       </motion.p>
       <>
         <h2 className={`mt-20 ${styles.heroSubText}`}>My Services:</h2>
